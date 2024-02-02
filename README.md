@@ -2,7 +2,7 @@
 
 
 
-## Overview 
+## 🌍 Overview 
 Welcome to this single-player, **Python-based game**, inspired by the classic board game Battleship! This project was developed as part of an introductory Python/programming course I attended at university in the second semester of 2022.
 
 ### 🧑‍🏫 Instructions:
