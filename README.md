@@ -1,6 +1,8 @@
 # A Battleship Like Game
 
-## This is a single player python based game inspired in the famous board game Battleship! This is code was developed during an python/programming introductory course that I took in university during the second semester of 2022.
+
+### Overview 
+Welcome to our single-player, Python-based game, inspired by the classic board game Battleship! This project was developed as part of an introductory Python/programming course I attended at university in the second semester of 2022.
 
 ### Instructions:
 * The goal here is to advance all way down the map with your boat.
