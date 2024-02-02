@@ -1,4 +1,4 @@
-# Battleship-Inspired  Game  :ship:
+#  :ship: Battleship-Inspired  Game  :ship:
 
 
 
