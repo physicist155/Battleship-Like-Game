@@ -11,7 +11,8 @@ Welcome to our single-player, Python-based game, inspired by the classic board g
    4. Obstacle Ships: Be cautious of other ships on the map. Colliding with them costs you a move. However, if a strike sinks a ship, that path clears for safe passage.
    5. Victory: Reach the far side of the map unscathed by strikes to win. Plan carefully and enjoy the adventure!
 
-## Notes:
-* The code and comments are written (still) in Portuguese.
-* The map of the game is contained in the "mapa.txt" file, the first line is the number of lines and columns of the map, respectively.
-* You may change the position and number of ships but you need to respect the geometry presentend in the "mapa.txt" file.
+## Game Notes:
+
+   * Language: Currently, both the code and comments are in Portuguese.
+   * Game Map: The game map is stored in "mapa.txt". The first line specifies the map's dimensions (rows and columns).
+   * Customization: Feel free to alter the positions and number of ships, but ensure to maintain the map's original layout as outlined in "mapa.txt".
