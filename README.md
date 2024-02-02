@@ -13,7 +13,7 @@ Welcome to this single-player, **Python-based game**, inspired by the classic bo
 * Be cautious of other ships on the map. Colliding with them costs you a move. But if a strike hits a ship, it will sink and that path clears for safe passage.
 * You win by reaching the other side of the map without being hit by the strikes. Good luck and have fun!
 
-### Notes:
+### 📑Notes:
 * The code and comments are written (still) in Portuguese.
 * The map of the game is contained in the "mapa.txt" file. The first line specifies the map's dimensions (rows and columns).
 *  Feel free to change the positions and number of ships, but ensure to maintain the map's original layout as outlined in "mapa.txt".
