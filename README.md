@@ -6,7 +6,6 @@
 Welcome to this single-player, **Python-based game**, inspired by the classic board game Battleship! This project was developed as part of an introductory Python/programming course I attended at university in the second semester of 2022.
 
 ### 🧑‍🏫 Instructions:
-* The goal here is to advance all way down the map with your boat.
 * First things first: you start by placing your boat in a column in the beggining of the map.
 * Then you can start moving your boat to either down, left or right. You have one move per round.
 * But be careful! Each round 3 randoms strikes will be placed in the map. If a strike hits you, you're finished :(
